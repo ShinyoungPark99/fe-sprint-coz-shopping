@@ -5,7 +5,7 @@ let Container = styled.footer`
     width: 100vw;
     height: 50px;
     font-size: 12px;
-    color: grey;
+    color: black;
     display: flex;
     justify-content: center;
     align-items: center;
